@@ -1,4 +1,4 @@
-package com.company.ResumeDBappJpaSpring;
+package com.company.main;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,10 +1,10 @@
-package com.company.ResumeDBappJpaSpring;
+package com.company;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ResumeDBappJpaSpringApplicationTests {
+class ResumewebappApplicationTests {
 
 	@Test
 	void contextLoads() {
